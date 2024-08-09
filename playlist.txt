@@ -1,0 +1,3 @@
+Git File 
+
+This file is used for the purpose of test GitHub features such as pushing commits and cloning forking etc.
